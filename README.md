@@ -7,3 +7,5 @@ consultas em memória secundária
 Referências
 
 https://github.com/niteshkumartiwari/B-Plus-Tree 
+
+teste push
